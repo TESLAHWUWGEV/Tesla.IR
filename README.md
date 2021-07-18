@@ -8,6 +8,6 @@ King spam bot By" @imanzxtesla
 
 / git clone https://github.com/TESLAHWUWGEV/TESLA.IR.git
 
-/ cd Tesla.IR
+/ cd TESLA.IR
 
 / python Tesla.IR
